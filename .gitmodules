@@ -1,0 +1,6 @@
+[submodule "RepoA"]
+	path = RepoA
+	url = https://github.com/Azurix78/RepoA.git
+[submodule "RepoB"]
+	path = RepoB
+	url = https://github.com/Azurix78/RepoB.git

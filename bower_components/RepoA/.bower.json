@@ -1,0 +1,13 @@
+{
+  "name": "RepoA",
+  "homepage": "https://github.com/Azurix78/RepoA",
+  "_release": "e5df1d27f0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "e5df1d27f07fdb2d4576299887414a7ae86f4423"
+  },
+  "_source": "https://github.com/Azurix78/RepoA.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Azurix78/RepoA.git"
+}

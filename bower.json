@@ -10,6 +10,7 @@
   "ignore": [
   ],
   "devDependencies": {
-    "RepoMain": "https://github.com/Azurix78/RepoMain.git"
+    "RepoA": "https://github.com/Azurix78/RepoA.git",
+    "RepoB": "https://github.com/Azurix78/RepoB.git"
   }
 }

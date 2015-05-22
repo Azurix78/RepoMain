@@ -1,0 +1,13 @@
+{
+  "name": "RepoB",
+  "homepage": "https://github.com/Azurix78/RepoB",
+  "_release": "eca8cb448c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "eca8cb448c6684f917cc7b550b973b10eef95b5b"
+  },
+  "_source": "https://github.com/Azurix78/RepoB.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/Azurix78/RepoB.git"
+}

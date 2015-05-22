@@ -8,11 +8,6 @@
   "description": "test bower",
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
   ],
   "devDependencies": {
     "RepoMain": "https://github.com/Azurix78/RepoMain.git"

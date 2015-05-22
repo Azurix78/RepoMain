@@ -8,6 +8,6 @@
     "commit": "eca8cb448c6684f917cc7b550b973b10eef95b5b"
   },
   "_source": "https://github.com/Azurix78/RepoB.git",
-  "_target": "*",
+  "_target": "master",
   "_originalSource": "https://github.com/Azurix78/RepoB.git"
 }
